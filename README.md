@@ -14,7 +14,7 @@ The script converts the inputs into metric units and determines whether the user
 3. BMI is calculated using the formula: 
    - BMI = weight_kg / (height_m^2)
 4. The result is classified into:
-- Underweight  
-- Normal  
-- Overweight  
-- Obese
+   - Underweight  
+   - Normal  
+   - Overweight  
+   - Obese
